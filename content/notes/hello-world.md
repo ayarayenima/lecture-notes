@@ -33,18 +33,8 @@ testes
 {{< youtube 7vl9OsL1CVQ >}}
 
 ## Image
-![]
-(https://www.google.com/search?q=black&tbm=isch&ved=2ahUKEwj_8OantLOBAxUp2zgGHVOeACwQ2-cCegQIABAA&oq=black&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCggAEIoFELEDEEMyCAgAEIAEELEDMgUIABCABDIHCAAQigUQQzIICAAQgAQQsQMyCAgAEIAEELEDMgcIABCKBRBDMggIABCABBCxAzIICAAQgAQQsQM6BAgjECc6BAgAEAM6BwgjEOoCECdQgAVYiA5g-g9oAXAAeACAAbUBiAGbBJIBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=l90HZb_JIam24-EP07yC4AI&bih=780&biw=851&rlz=1C1ONGR_enID1032ID1032#imgrc=WyFOZkdIjtLd3M)
+![img](https://www.google.com/search?q=black&tbm=isch&ved=2ahUKEwj_8OantLOBAxUp2zgGHVOeACwQ2-cCegQIABAA&oq=black&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCggAEIoFELEDEEMyCAgAEIAEELEDMgUIABCABDIHCAAQigUQQzIICAAQgAQQsQMyCAgAEIAEELEDMgcIABCKBRBDMggIABCABBCxAzIICAAQgAQQsQM6BAgjECc6BAgAEAM6BwgjEOoCECdQgAVYiA5g-g9oAXAAeACAAbUBiAGbBJIBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=l90HZb_JIam24-EP07yC4AI&bih=780&biw=851&rlz=1C1ONGR_enID1032ID1032#imgrc=WyFOZkdIjtLd3M)
 
-## Diagram
-{{< mermaid >}}
-flowchart LR
- B --> I & P --> O & E
- B(("<b>Begin</b>"))
- I[/"Input"/]
- P[/"Process"/]
- O[/"Output"/]
- E(("<b>End</b>"))
  
 ## Link
 + [Google] (https://www.Google.com)
