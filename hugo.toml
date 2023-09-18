@@ -1,4 +1,4 @@
-baseURL = 'https://dudung.github.io/lecture-notes'
+baseURL = 'https://ayarayenima.github.io/lecture-notes'
 languageCode = 'en-us'
 title = 'lecture-notes'
 theme = ['hugo-chart', 'hugo-coder']
@@ -13,9 +13,9 @@ enableEmoji = true
 #disqusShortname = "dudung-github-io-blog"
 
 [params]
-author = "Sparisoma Viridi"
+author = "Ayara Yenima"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Sparisoma Viridi's personal website"
+description = "Ayara Yenima's personal website"
 keywords = "blog,developer,personal"
 info = ["Physicist", "Programmer"]
 
