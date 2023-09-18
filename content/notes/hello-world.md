@@ -39,12 +39,3 @@ testes
 ## Link
 + [Google] (https://www.Google.com)
 + [Github] (https://Github.com/ayarayenima)
-
-## Animation with svg
-{{< html >}}
-< svg style="background: #eee;>
-	<rect x="10" y="10" width="50" height="50" fill="blue">
-		<animate attributeName="width" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
-	</rect>
-</svg>
-{{< /html >}}
